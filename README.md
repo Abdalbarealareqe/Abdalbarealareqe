@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Abdalbarealareqe
 - 👀 I’m interested in ...programing
 - 🌱 I’m currently learning ...programing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on  ...Learning
+- 📫 How to reach me ...By email
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Progress
 
 <!---
 Abdalbarealareqe/Abdalbarealareqe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
